@@ -11,5 +11,6 @@ NODEJS workshop
 - available commands: run, backtrace, list
 - run your js with debug flag:
 
+
     node debug path/to/your/file
 
